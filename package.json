@@ -1,0 +1,22 @@
+{
+  "name": "grow-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs学习与巩固",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hlantian/grow-nodejs.git"
+  },
+  "keywords": [
+    "grow"
+  ],
+  "author": "hlantian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlantian/grow-nodejs/issues"
+  },
+  "homepage": "https://github.com/hlantian/grow-nodejs#readme"
+}
